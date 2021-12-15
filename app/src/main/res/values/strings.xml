@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM_Movies</string>
+    <string name="ticket_fare">Ticket Fare: </string>
+    <string name="arrival">Arrival: </string>
+    <string name="departure">Departure: </string>
+    <string name="destination">Destination: </string>
+    <string name="source">Source: </string>
+</resources>

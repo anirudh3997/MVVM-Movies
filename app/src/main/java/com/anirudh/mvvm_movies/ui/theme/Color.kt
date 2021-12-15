@@ -1,0 +1,10 @@
+package com.anirudh.mvvm_movies.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple200 = Color(0xFFBB86FC)
+val Purple500 = Color(0xFF6200EE)
+val Purple700 = Color(0xFF3700B3)
+val Teal200 = Color(0xFF03DAC5)
+val Gold = Color(0xFFEFD50E)
+val BlueTransparent = Color(0xB3080266)
